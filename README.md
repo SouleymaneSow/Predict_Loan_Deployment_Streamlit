@@ -7,4 +7,4 @@
 <ol>Scikit-Learn</ol>
 <ol>Streamlit<ol/>
 </li>
-<h2> Lien documentation de l'utilisation streamlit avec jupyter lab ou google colab </h2>: <a href="https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html"> How to run streamlit in jupyter notebook </a>
+<h2> Documentation de l'utilisation streamlit avec jupyter notebook </h2>: <a href="https://docs.streamlit.io/en/stable/troubleshooting/clean-install.html"> How to run streamlit in jupyter notebook </a
